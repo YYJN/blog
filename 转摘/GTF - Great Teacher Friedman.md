@@ -10,10 +10,10 @@ Friedman 对程序语言的理解可以说是世界的最高标准，很可惜�
 
 虽然写了 The Little Schemer， 但 Friedman 的学识并不限于 Scheme。他不断地实验各种其它的语言设计，包括像 ML 一类的含有静态类型系统的函数式语言，逻辑式语言，面向对象语言，用于定理证明的语言等等。在每次的试验之后，他几乎都会写一本书，揭示这些语言最精要的部分。
 
-觉得 ML 比 Scheme 先进很多的人们应该看看 Friedman 这本书：The Little MLer：
+觉得 ML 比 Scheme 先进很多的人们应该看看 Friedman 这本书：The Little MLer：<br />
 ![](http://www.yinwang.org/images/the-little-mler.jpeg)
 
-想要真正理解 Java 设计模式的人可以看看这本：A Little Java, A Few Patterns:
+想要真正理解 Java 设计模式的人可以看看这本：A Little Java, A Few Patterns:<br />
 ![](http://www.yinwang.org/images/the-little-java.jpeg)
 
 这些东西的优点和弱点仿佛在他心里都有数，他几乎总是指向正确的前进方向。
