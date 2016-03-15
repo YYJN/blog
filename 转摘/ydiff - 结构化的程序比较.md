@@ -13,11 +13,7 @@ ydiff 含有 C++, JavaScript 和 Lisp 的 parser。这些 parser，包括用于�
 
 
 <html>
-
-<frameset>
-
-  <frame src="http://www.yinwang.org/resources/mk1-mk2.html" name="showframe">
-
+<frameset cols="100%">
+  <frame src="http://www.yinwang.org/resources/mk1-mk2.html">
 </frameset>
-
 </html>
