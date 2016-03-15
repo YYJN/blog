@@ -12,8 +12,12 @@ ydiff 含有 C++, JavaScript 和 Lisp 的 parser。这些 parser，包括用于�
 跟普通 diff 程序的输出不一样，ydiff 生成美观的含有 JavaScript 的 HTML 文件，可以直接使用浏览器浏览，并且可以嵌入其它网页，比如像下面这样：
 
 
+<html>
+
 <frameset>
 
   <frame src="http://www.yinwang.org/resources/mk1-mk2.html" name="showframe">
 
 </frameset>
+
+</html>
